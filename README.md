@@ -30,3 +30,4 @@
 <p align ="center><i>***Bootcamp DIO.</i></p>
 POTÊNCIA TECH POWERED BY IFOOD
 CIÊNCIA DE DADOS COM PYTHON
+INSTRUTOR: Guilherme Arthur de Carvalho
